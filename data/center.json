@@ -1,0 +1,31 @@
+{
+  "name": "CCI",
+  "fullName": "Carrier Coaching Institutes",
+  "tagline": "Focused learning. Brighter results.",
+  "location": "Opposite Shell Pump, near Rose Palace Hall, Tando Muhammad Khan, Sindh, Pakistan",
+  "feePerSubject": 500,
+  "currency": "Rs.",
+  "capacity": 15,
+  "levels": [6, 7, 8, 9, 10, 11, 12],
+  "subjects": [
+    "Mathematics",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "Computer Science",
+    "English",
+    "Pakistan Studies",
+    "General Science"
+  ],
+  "stats": [
+    { "value": "7+", "label": "experienced teachers" },
+    { "value": "15", "label": "students per class" },
+    { "value": "6–12", "label": "class levels" },
+    { "value": "Rs. 500", "label": "per selected subject" }
+  ],
+  "highlights": [
+    "Small, focused classes for girls and boys",
+    "Choose only the subjects you need",
+    "Learning aligned with the Sindh Textbook Board"
+  ]
+}
